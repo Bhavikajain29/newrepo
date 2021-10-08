@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/bhavikacontentstorage99",
+      "type": "storage.azure",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=bhavikacontentstorage99;AccountKey=YLK4LZXjWkmrjcaxH0x4LjTASp+EIGNdhJJSRC5o/de2d4CviMffFJzh3wyFk2q1ruhb2B/fua+64Ciy/P1eDg==;EndpointSuffix=core.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

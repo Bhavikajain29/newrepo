@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "SqlConnectionString"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=bhavikacontentstorage99;AccountKey=YLK4LZXjWkmrjcaxH0x4LjTASp+EIGNdhJJSRC5o/de2d4CviMffFJzh3wyFk2q1ruhb2B/fua+64Ciy/P1eDg==;EndpointSuffix=core.windows.net"
+    }
+  }
+}
